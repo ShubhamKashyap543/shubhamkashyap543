@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @shubham kashyap
-- 👀 I’m interested in Datascience
-- 🌱 I’m currently learning MachineLearning
-- 💞️ I’m looking to collaborate on MachineLearning
-- 📫 How to reach me ...
+- 👀 I’m a Freelance Data Scientist
+- 📫 For any queries please reach me out on kashyapshubham543@gmail.com
 
 <!---
 shubhamkashyap543/shubhamkashyap543 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
